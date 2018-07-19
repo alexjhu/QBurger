@@ -7,6 +7,8 @@ ex : php、html 程式類型檔案
 </p>
 
 <h3>/file-upload/index</h3>
+<p>存放位置 => /FileUpload/*</p>
+
 <h4>Tips</h4>
 <ol>
 <li>Model validator</li>
