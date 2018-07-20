@@ -16,6 +16,7 @@ ex : php、html 程式類型檔案
 
 <h4>MIME 差異</h4>
 <ul>
-<li>xls => [application/vnd.ms-excel, application/vnd.ms-office]</li>
-<li>csv => [text/csv, text/plain]</li>
+<li>.xls => [application/vnd.ms-excel, application/vnd.ms-office]</li>
+<li>.csv => [text/csv, text/plain]</li>
+<li>.ico => [image/vnd.microsoft.icon, image/x-icon]</li>
 </ul>
